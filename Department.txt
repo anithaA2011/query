@@ -1,0 +1,5 @@
+create table Department(deptid  int,deptname text,deptloc text);
+insert into Department values(005,'cse','Hyd');
+insert into Department values(006,'ece','Hyd');
+insert into Department values(007,'eee','Hyd');
+insert into Department values(008,'civil','Hyd');
